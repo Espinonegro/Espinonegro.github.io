@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Espinonegro.github.io
+title: Espinonegro
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
